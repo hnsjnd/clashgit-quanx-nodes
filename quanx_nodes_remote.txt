@@ -8,3 +8,21 @@ hysteria2=1123jp4.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6
 hysteria2=1022jpjp2.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=packages.ubuntu26.com, udp-relay=true, tag=[Japan] 日本1 [超高速]
 hysteria2=1103jp3.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=security.ubuntu26.com, udp-relay=true, tag=[Japan] 日本3 [超高速]
 hysteria2=1020kr.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=repo.ubuntu26.com, udp-relay=true, tag=[Korea] 한국 [超高速]
+hysteria2=1022jpjp9.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=images.ubuntu26.com, udp-relay=true, tag=[Korea] 한국2 [超高速]
+hysteria2=100672sg.deepseek16.com:40131, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=buzz.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡2-极速稳定 [推荐]
+hysteria2=100971hk.deepseek16.com:40132, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=rex.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡3-极速稳定 [推荐]
+hysteria2=100973jp.deepseek16.com:40133, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=hamm.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡4-极速稳定 [推荐]
+hysteria2=082974kr.deepseek16.com:40134, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=slink.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡5-极速稳定 [推荐]
+hysteria2=100971hk.deepseek16.com:40135, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=potato.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡6-极速稳定 [推荐]
+hysteria2=082974kr.deepseek16.com:40136, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=woody.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡7-极速稳定 [推荐]
+hysteria2=100971hk.deepseek16.com:40137, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=sarge.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡8-极速稳定 [推荐]
+hysteria2=100973jp.deepseek16.com:40138, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=etch.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡9-极速稳定 [推荐]
+hysteria2=100971hk.deepseek16.com:40139, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=lenny.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡10-极速稳定 [推荐]
+hysteria2=100973jp.deepseek16.com:40140, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=squeeze.ubuntu26.com, udp-relay=true, tag=[Japan] 日本1-极速稳定
+hysteria2=082974kr.deepseek16.com:40141, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=wheezy.ubuntu26.com, udp-relay=true, tag=[Japan] 日本2-极速稳定
+hysteria2=100971hk.deepseek16.com:40142, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=forky.ubuntu26.com, udp-relay=true, tag=[Japan] 日本3-极速稳定
+hysteria2=100971hk.deepseek16.com:40143, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=duke.ubuntu26.com, udp-relay=true, tag=[Japan] 日本4-极速稳定
+hysteria2=100672sg.deepseek16.com:40144, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=dselect.ubuntu26.com, udp-relay=true, tag=[Japan] 日本5-极速稳定
+hysteria2=082974kr.deepseek16.com:40145, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=tasksel.ubuntu26.com, udp-relay=true, tag=[United States] 美国1-极速稳定
+hysteria2=100971hk.deepseek16.com:40146, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=debconf.ubuntu26.com, udp-relay=true, tag=[United States] 美国2-极速稳定
+hysteria2=100971hk.deepseek16.com:40147, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=debootstrap.ubuntu26.com, udp-relay=true, tag=[United States] 美国3-极速稳定
