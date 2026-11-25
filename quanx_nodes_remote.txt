@@ -1,2 +1,1 @@
-hysteria2=1120sg3.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=aptitude.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡3 [超高速]
-hysteria2=1121jp5.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=archive.ubuntu26.com, udp-relay=true, tag=[Japan] 日本5 [超高速]
+FULL_NODES_CONTENT_HERE
