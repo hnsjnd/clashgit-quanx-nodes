@@ -3,3 +3,8 @@ hysteria2=1121jp5.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6
 hysteria2=1117sg.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=mirrors.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡1 [超高速]
 hysteria2=1022hk.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=static.ubuntu26.com, udp-relay=true, tag=[Hong Kong] 香港 [超高速]
 hysteria2=1118jpjp3.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=downloads.ubuntu26.com, udp-relay=true, tag=[Japan] 日本2 [超高速]
+hysteria2=1117sg2.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=cache.ubuntu26.com, udp-relay=true, tag=[Singapore] 新加坡2 [超高速]
+hysteria2=1123jp4.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=dpkg.ubuntu26.com, udp-relay=true, tag=[Japan] 日本4 [超高速]
+hysteria2=1022jpjp2.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=packages.ubuntu26.com, udp-relay=true, tag=[Japan] 日本1 [超高速]
+hysteria2=1103jp3.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=security.ubuntu26.com, udp-relay=true, tag=[Japan] 日本3 [超高速]
+hysteria2=1020kr.debian13.com:18445, password=e4e0b6df-d14c-4e67-a410-63e8994b6da2, tls-host=repo.ubuntu26.com, udp-relay=true, tag=[Korea] 한국 [超高速]
